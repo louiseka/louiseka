@@ -1,6 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a self-taught, enthusiastic frontend developer with a background in digital accessibility. I'm currently working on a solo project called [PinPoint](https://github.com/louiseka/pinpoint) and learning automated testing (Jest) and TypeScript. 
+I’m a self-taught, enthusiastic frontend developer with a background in digital accessibility. I'm currently learning automated testing (Jest) and TypeScript. 
 
 You can visit my portfolio to learn more about me and the projects I've been working on: https://louise.codes/
 
