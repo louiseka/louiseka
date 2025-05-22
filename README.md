@@ -5,6 +5,7 @@ I’m a self-taught, enthusiastic frontend developer with a background in digita
 You can visit my portfolio to learn more about me and the projects I've been working on: https://louise.codes/
 
 ## Languages and Frameworks
+- TypeScript
 - JavaScript
 - React.js
 - React Router
