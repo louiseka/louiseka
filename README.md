@@ -1,6 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a self-taught, enthusiastic frontend developer with a background in digital accessibility. I'm currently learning automated testing (Jest) and TypeScript. 
+I’m a self-taught, enthusiastic frontend developer with a background in digital accessibility. I'm currently learning automated testing (Jest) and TypeScript. I am currently working on building my own farm tycoon game with TypeScript and React: https://github.com/louiseka/farm-tycoon 
 
 You can visit my portfolio to learn more about me and the projects I've been working on: https://louise.codes/
 
