@@ -1,8 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a self-taught, enthusiastic frontend developer with a background in digital accessibility. I'm currently learning Vitest and TypeScript. I am currently working on building my own farm tycoon game with TypeScript and React: https://github.com/louiseka/farm-tycoon 
-
-You can visit my portfolio to learn more about me and the projects I've been working on: https://louise.codes/
+I’m a frontend developer specialising in React, TypeScript, and JavaScript. I combine strong coding skills with a focus on digital accessibility, creating websites and applications that are both user-friendly and mission-focused. I’m currently expanding my skill set by learning Vitest. To see examples of my work and follow my coding journey, please visit my portfolio: louise.codes
 
 ## Languages and Frameworks
 - TypeScript
@@ -13,7 +11,9 @@ You can visit my portfolio to learn more about me and the projects I've been wor
 - CSS
 - Tailwind
 
+## I'm currently working on...
 
+I'm currently enrolled in TechNative Digital Software Development Tech Finishing School, refining my coding skills for the workplace, learning how to collaborate effectively with other developers, and building greater confidence in my abilities.
 
 
 <!--
