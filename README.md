@@ -1,6 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a frontend developer specialising in React, TypeScript, and JavaScript. I combine strong coding skills with a focus on digital accessibility, creating websites and applications that are both user-friendly and mission-focused. I’m currently expanding my skill set into the backend by learning Node.js and Python. To see examples of my work and follow my coding journey, please visit my portfolio: louise.codes
+I’m a frontend developer specialising in React, TypeScript, and JavaScript. I combine strong coding skills with a focus on digital accessibility, creating websites and applications that are both user-friendly and mission-focused. I’m currently expanding my skill set into the backend by learning Node.js and Python. To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes/)
 
 ## Languages and Frameworks
 - TypeScript
@@ -15,7 +15,7 @@ I’m a frontend developer specialising in React, TypeScript, and JavaScript. I 
 
 ## I'm currently working on...
 
-I'm currently learning Node.js and Python, to expand my skillset and understanding of the backend. 
+I'm currently learning Node.js to expand my skillset and understanding of the backend. You can view my progress with Node.js in this repo: [Wild Horizons](https://github.com/louiseka/wild-horizons-scrimba)
 
 
 <!--
