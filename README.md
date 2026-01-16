@@ -1,6 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a **Frontend Developer** specialising in **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**.  
+I’m a **Frontend Engineer** specialising in **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**.  
 
 I’m currently expanding my skill set into the backend by learning **Node.js**. To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
 
