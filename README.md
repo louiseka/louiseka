@@ -20,5 +20,6 @@ I’m currently expanding my skill set into the backend by learning **Node.js**.
 
 - Developing my **backend knowledge** with **Node.js**. You can track my Node.js progress in this repo: [Wild Horizons](https://github.com/yourusername/wild-horizons)
 - Building a Component Garden, to continue experimenting with **React**: [View the repo](https://github.com/louiseka/component-garden)
+- Continuing to practice with **Vitest** by adding testing to my previous projects
 
 
