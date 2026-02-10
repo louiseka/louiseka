@@ -1,8 +1,8 @@
 # Hello, I'm Louise 🐷
 
-I’m a **Frontend Engineer** specialising in **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**.  
+I’m a **Frontend Engineer** working with **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**.  
 
-I’m currently expanding my skill set into the backend by learning **Node.js**. To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
+To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
 
 ## Languages & Frameworks
 
@@ -18,8 +18,8 @@ I’m currently expanding my skill set into the backend by learning **Node.js**.
 
 ## Currently Working On
 
-- Developing my **backend knowledge** with **Node.js**. You can track my Node.js progress in this repo: [Wild Horizons](https://github.com/yourusername/wild-horizons)
 - Building a Component Garden, to continue experimenting with **React**: [View the repo](https://github.com/louiseka/component-garden)
 - Continuing to practice with **Vitest** by adding testing to my previous projects
+- Developing my **backend knowledge** with **Node.js**. You can track my Node.js progress in this repo: [Wild Horizons](https://github.com/yourusername/wild-horizons)
 
 
