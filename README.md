@@ -5,16 +5,10 @@ I’m a **Frontend Developer** working with **React, TypeScript, and JavaScript*
 To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
 
 ## Languages & Frameworks
+| [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) | [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![Vitest](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev) | [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) | [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| TypeScript | React | Vue.js | JavaScript | Vitest | Redux | Tailwind | CSS | HTML |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-646cff?style=for-the-badge&logo=vitest&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Currently Working On
 
