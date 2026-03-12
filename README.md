@@ -13,7 +13,7 @@ To see examples of my work and follow my coding journey, please visit my portfol
 ## Currently Working On
 
 - Learning Vue.js and practicing it through a personal Vue playground called [Vue Bits](https://github.com/louiseka/vue-bits)
-- Improving the maintainability of my [portfolio](https://github.com/louiseka/portfolio) 
+- Improving the maintainability and accessibility of my [portfolio](https://github.com/louiseka/portfolio) 
 - Building a Component Garden, to continue experimenting with **React**: [View the repo](https://github.com/louiseka/component-garden)
 - Continuing to practice with **Vitest** by adding testing to my previous projects
 
