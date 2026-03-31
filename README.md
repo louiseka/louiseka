@@ -12,8 +12,8 @@ To see examples of my work and follow my coding journey, please visit my portfol
 
 ## Currently Working On
 
+- Conducting an accessibility audit for WCAG 2.2 compliance on an older React project called [PinPoint](https://github.com/louiseka/pinpoint)
 - Learning Vue.js and practicing it through a personal Vue playground called [Vue Bits](https://github.com/louiseka/vue-bits)
 - Improving the maintainability and accessibility of my [portfolio](https://github.com/louiseka/portfolio) 
-- Building a Component Garden, to continue experimenting with **React**: [View the repo](https://github.com/louiseka/component-garden)
 - Continuing to practice with **Vitest** by adding testing to my previous projects
 
