@@ -12,7 +12,7 @@ To see examples of my work and follow my coding journey, please visit my portfol
 
 ## Currently Working On
 
-- Building [Cove UI] (https://github.com/louiseka/cove-ui) – an accessible React + TypeScript component library with MDX docs and Vitest testing
+- Building [Cove UI](https://github.com/louiseka/cove-ui) – an accessible React + TypeScript component library with MDX docs and Vitest testing.
 - Conducting an accessibility audit for WCAG 2.2 compliance on an older React project called [PinPoint](https://github.com/louiseka/pinpoint)
 - Improving the maintainability and accessibility of my [portfolio](https://github.com/louiseka/portfolio) 
 - Continuing to practice with **Vitest** by adding testing to my previous projects
