@@ -1,6 +1,6 @@
 # Hello, I'm Louise 🐷
 
-I’m a **Frontend Developer** working with **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**.  
+I’m a **Frontend Developer** working with **React, TypeScript, and JavaScript**. I combine strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both **user-friendly** and **mission-focused**. I am currently learning **Vue.js**.
 
 To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
 
@@ -15,5 +15,5 @@ To see examples of my work and follow my coding journey, please visit my portfol
 - Building [Cove UI](https://github.com/louiseka/cove-ui) – an accessible React + TypeScript component library with MDX docs and Vitest testing.
 - Conducting an accessibility audit for WCAG 2.2 compliance on an older React project called [PinPoint](https://github.com/louiseka/pinpoint)
 - Improving the maintainability and accessibility of my [portfolio](https://github.com/louiseka/portfolio) 
-- Continuing to practice with **Vitest** by adding testing to my previous projects
+- Continuing to practice with **Vitest** by adding unit tests to my previous projects
 
