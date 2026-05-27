@@ -1,6 +1,6 @@
 # Louise Aldridge 🐷
 
-I’m a **Frontend Developer (CPACC)** with commercial experience building accessible, responsive web interfaces. Skilled in **React**, **TypeScript**, and **JavaScript**, with experience translating designs into production-ready interfaces and collaborating across content, design, and development teams. I am currently learning **Vue.js**.
+I'm a **Frontend Developer (CPACC)**, combining strong coding skills with a focus on **digital accessibility**, creating websites and applications that are both user-friendly and mission-focused. Skilled in **TypeScript**, **React**, and **JavaScript**. I am currently learning **Vue.js**.
 
 To see examples of my work and follow my coding journey, please visit my portfolio: [louise.codes](https://louise.codes)
 
